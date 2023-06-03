@@ -1,0 +1,22 @@
+103
+~E 1 "./src/Calendar.vhd" 5 calendar
+~A 1 "./src/Calendar.vhd" 29 arh_calendar
+~E 1 "./src/Afisare_Litera.vhd" 4 afisare_litera
+~A 1 "./src/Afisare_Litera.vhd" 10 arh_afisare_litera
+~E 1 "./src/Afisare_Cifra.vhd" 4 afisare_cifra
+~A 1 "./src/Afisare_Cifra.vhd" 10 arh_afisare_cifra
+~E 1 "./src/agenda_de_birou.vhd" 4 agenda_de_birou
+~A 1 "./src/agenda_de_birou.vhd" 43 arh_agenda_programabila
+~E 1 "./src/numar_zile_din_luna.vhd" 5 numar_zile_din_luna
+~A 1 "./src/numar_zile_din_luna.vhd" 16 arh_numar_zile_din_luna
+~E 1 "./src/data_calendaristica.vhd" 5 data_calendaristica
+~A 1 "./src/data_calendaristica.vhd" 13 arh_calendaristic
+~A 1 "./src/data_calendaristica.vhd" 13 arh_calendar
+~E 1 "./src/Ceas.vhd" 5 ceas
+~A 1 "./src/Ceas.vhd" 19 arch_ceas
+~E 1 "./src/este_bisect.vhd" 5 este_bisect
+~A 1 "./src/este_bisect.vhd" 14 arh_este_bisect
+~E 1 "./src/Timer_alarma.vhd" 5 timer_alarma
+~A 1 "./src/Timer_alarma.vhd" 21 arh_timer_alarma
+~E 1 "./src/zile_din_saptamana.vhd" 5 ziua_din_saptamana_litere
+~A 1 "./src/zile_din_saptamana.vhd" 14 arh_ziua_din_saptamana_litere

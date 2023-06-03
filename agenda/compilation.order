@@ -1,0 +1,10 @@
+.\src\Ceas.vhd
+.\src\Afisare_Cifra.vhd
+.\src\Afisare_Litera.vhd
+.\src\Calendar.vhd
+.\src\este_bisect.vhd
+.\src\zile_din_saptamana.vhd
+.\src\Timer_alarma.vhd
+.\src\numar_zile_din_luna.vhd
+.\src\data_calendaristica.vhd
+.\src\agenda_de_birou.vhd

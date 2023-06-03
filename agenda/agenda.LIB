@@ -1,0 +1,116 @@
+timestamp=1653562093147
+
+[afisare_cifra]
+A/arh_afisare_cifra=A/Arh_Afisare_Cifra 21|./src/Afisare_Cifra.vhd|10|1*28063
+B/arh_afisare_cifra=3*30537
+H/arh_afisare_cifra=0*87842
+R=./src/Afisare_Cifra.vhd|4
+V=0*90966
+
+[afisare_litera]
+A/arh_afisare_litera=A/Arh_Afisare_Litera 21|./src/Afisare_Litera.vhd|10|1*30473
+B/arh_afisare_litera=3*33074
+H/arh_afisare_litera=0*92370
+R=./src/Afisare_Litera.vhd|4
+V=0*95513
+
+[agenda_de_birou]
+A/arh_agenda_programabila=A/Arh_Agenda_Programabila 21|./src/agenda_de_birou.vhd|43|1*32889
+H/arh_agenda_programabila=0*96583
+R=./src/agenda_de_birou.vhd|4
+V=0*7782
+
+[calendar]
+A/arh_calendar=A/Arh_Calendar 21|./src/Calendar.vhd|29|1*77801
+B/arh_calendar=3*35612
+H/arh_calendar=0*129698
+R=./src/Calendar.vhd|5
+V=0*34463
+
+[ceas]
+A/arch_ceas=A/Arch_Ceas 21|./src/Ceas.vhd|19|1*7528
+B/arch_ceas=3*10693
+H/arch_ceas=0*44272
+R=./src/Ceas.vhd|5
+V=0*49208
+
+[data_calendaristica]
+A/arh_calendar=A/Arh_Calendar 21|./src/data_calendaristica.vhd|13|1*11762
+A/arh_calendaristic=A/Arh_Calendaristic 21|./src/data_calendaristica.vhd|13|1*85331
+B/arh_calendar=3*17518
+B/arh_calendaristic=3*46305
+H/arh_calendar=0*53789
+H/arh_calendaristic=0*135554
+R=./src/data_calendaristica.vhd|5
+V=0*64212
+
+[este_bisect]
+A/arh_este_bisect=A/Arh_Este_Bisect 21|./src/este_bisect.vhd|14|1*16697
+B/arh_este_bisect=3*20398
+H/arh_este_bisect=0*65053
+R=./src/este_bisect.vhd|5
+V=0*66668
+
+[numar_zile_din_luna]
+A/arh_numar_zile_din_luna=A/Arh_Numar_Zile_Din_Luna 21|./src/numar_zile_din_luna.vhd|16|1*18705
+B/arh_numar_zile_din_luna=3*21865
+H/arh_numar_zile_din_luna=0*68573
+R=./src/numar_zile_din_luna.vhd|5
+V=0*70803
+
+[timer_alarma]
+A/arh_timer_alarma=A/Arh_Timer_Alarma 21|./src/Timer_alarma.vhd|21|1*21259
+B/arh_timer_alarma=3*23988
+H/arh_timer_alarma=0*73913
+R=./src/Timer_alarma.vhd|5
+V=0*78355
+
+[ziua_din_saptamana_litere]
+A/arh_ziua_din_saptamana_litere=A/Arh_Ziua_Din_Saptamana_Litere 21|./src/zile_din_saptamana.vhd|14|1*25677
+B/arh_ziua_din_saptamana_litere=3*27580
+H/arh_ziua_din_saptamana_litere=0*83640
+R=./src/zile_din_saptamana.vhd|5
+V=0*85759
+
+[~A]
+./src/Afisare_Cifra.vhd~Afisare_Cifra=0*87512*87765
+./src/Afisare_Cifra.vhd~Arh_Afisare_CifraAfisare_Cifra=0*89287*90264
+./src/Afisare_Litera.vhd~Afisare_Litera=0*92034*92291
+./src/Afisare_Litera.vhd~Arh_Afisare_LiteraAfisare_Litera=0*93817*94801
+./src/Calendar.vhd~Arh_CalendarCalendar=0*132512*135475
+./src/Calendar.vhd~Calendar=0*23998*25110
+./src/Ceas.vhd~Arch_CeasCeas=0*45704*47457
+./src/Ceas.vhd~Ceas=0*43613*44213
+./src/Timer_alarma.vhd~Arh_Timer_AlarmaTimer_Alarma=0*74805*76316
+./src/Timer_alarma.vhd~Timer_Alarma=0*73135*73838
+./src/agenda_de_birou.vhd~Arh_Agenda_Programabilaagenda_de_birou=0*101633*106182
+./src/agenda_de_birou.vhd~agenda_de_birou=0*0*1817
+./src/data_calendaristica.vhd~Arh_Calendardata_calendaristica=0*61590*63542
+./src/data_calendaristica.vhd~Arh_Calendaristicdata_calendaristica=0*143365*145327
+./src/data_calendaristica.vhd~data_calendaristica=0*53386*53700
+./src/este_bisect.vhd~Arh_Este_BisectEste_Bisect=0*65322*65836
+./src/este_bisect.vhd~Este_Bisect=0*64635*64980
+./src/numar_zile_din_luna.vhd~Arh_Numar_Zile_Din_LunaNumar_Zile_Din_Luna=0*68776*69544
+./src/numar_zile_din_luna.vhd~Numar_Zile_Din_Luna=0*68002*68484
+./src/zile_din_saptamana.vhd~Arh_Ziua_Din_Saptamana_LitereZiua_Din_Saptamana_Litere=0*83856*84688
+./src/zile_din_saptamana.vhd~Ziua_Din_Saptamana_Litere=0*83137*83546
+ModifyID=103
+Version=73
+
+[~MFT]
+0=112|0agenda.mgf|145327|29284
+1=20|1agenda.mgf|85331|37630
+3=19|3agenda.mgf|46305|10693
+
+[~U]
+afisare_cifra=Afisare_Cifra 11|0*90358|0*90547
+afisare_litera=Afisare_Litera 11|0*94898|0*95091
+agenda_de_birou=11|0*1898|0*3326
+calendar=Calendar 11|0*31049|0*31892
+ceas=Ceas 11|0*47525|0*47964
+data_calendaristica=11|0*63643|0*63891
+este_bisect=Este_Bisect 11|0*65924|0*66168
+numar_zile_din_luna=Numar_Zile_Din_Luna 11|0*69656|0*70016
+timer_alarma=Timer_Alarma 11|0*76407|0*76932
+ziua_din_saptamana_litere=Ziua_Din_Saptamana_Litere 11|0*84811|0*85119
+

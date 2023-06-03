@@ -1,0 +1,5 @@
+MESSAGE "File: C:\Users\nechi\Desktop\proiect\agenda\src\data_calendaristica.vhd" 
+MESSAGE "Compile Entity "data_calendaristica"" 
+MESSAGE "Entity `data_calendaristica' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Arh_Calendaristic" of Entity "data_calendaristica"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 

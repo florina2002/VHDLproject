@@ -1,0 +1,680 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\nechi\Desktop\proiect\proiect.aws" design added.
+asim -advdataflow  agenda_de_birou arh_agenda_programabila
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2484 kB (elbread=1071 elab2=360 kernel=1053 sdf=0)
+# 11:14 PM, Wednesday, May 25, 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda_de_birou (arh_agenda_programabila)
+run 100ns
+# KERNEL: stopped at time: 100 ns
+run 100ns
+# KERNEL: stopped at time: 200 ns
+run 100ns
+# KERNEL: stopped at time: 300 ns
+run 100ns
+# KERNEL: stopped at time: 400 ns
+run 100ns
+# KERNEL: stopped at time: 500 ns
+run 100ns
+# KERNEL: stopped at time: 600 ns
+run 100ns
+# KERNEL: stopped at time: 700 ns
+run 100ns
+# KERNEL: stopped at time: 800 ns
+run 100ns
+# KERNEL: stopped at time: 900 ns
+run 100ns
+# KERNEL: stopped at time: 1 us
+run 100ns
+# KERNEL: stopped at time: 1100 ns
+run 100ns
+# KERNEL: stopped at time: 1200 ns
+run 100ns
+# KERNEL: stopped at time: 1300 ns
+run 100ns
+# KERNEL: stopped at time: 1400 ns
+run 100ns
+# KERNEL: stopped at time: 1500 ns
+run 100ns
+# KERNEL: stopped at time: 1600 ns
+run 100ns
+# KERNEL: stopped at time: 1700 ns
+run 100ns
+# KERNEL: stopped at time: 1800 ns
+run 100ns
+# KERNEL: stopped at time: 1900 ns
+run 100ns
+# KERNEL: stopped at time: 2 us
+run 100ns
+# KERNEL: stopped at time: 2100 ns
+run 100ns
+# KERNEL: stopped at time: 2200 ns
+run 100ns
+# KERNEL: stopped at time: 2300 ns
+run 100ns
+# KERNEL: stopped at time: 2400 ns
+run 100ns
+# KERNEL: stopped at time: 2500 ns
+run 100ns
+# KERNEL: stopped at time: 2600 ns
+run 100ns
+# KERNEL: stopped at time: 2700 ns
+run 100ns
+# KERNEL: stopped at time: 2800 ns
+run 100ns
+# KERNEL: stopped at time: 2900 ns
+run 100ns
+# KERNEL: stopped at time: 3 us
+run 100ns
+# KERNEL: stopped at time: 3100 ns
+run 100ns
+# KERNEL: stopped at time: 3200 ns
+run 100ns
+# KERNEL: stopped at time: 3300 ns
+run 100ns
+# KERNEL: stopped at time: 3400 ns
+run 100ns
+# KERNEL: stopped at time: 3500 ns
+run 100ns
+# KERNEL: stopped at time: 3600 ns
+run 100ns
+# KERNEL: stopped at time: 3700 ns
+run 100ns
+# KERNEL: stopped at time: 3800 ns
+run 100ns
+# KERNEL: stopped at time: 3900 ns
+run 100ns
+# KERNEL: stopped at time: 4 us
+run 100ns
+# KERNEL: stopped at time: 4100 ns
+run 100ns
+# KERNEL: stopped at time: 4200 ns
+run 100ns
+# KERNEL: stopped at time: 4300 ns
+run 100ns
+# KERNEL: stopped at time: 4400 ns
+run 100ns
+# KERNEL: stopped at time: 4500 ns
+run 100ns
+# KERNEL: stopped at time: 4600 ns
+# Cannot force signal min_zeci with formula 2.
+run 100ns
+# KERNEL: stopped at time: 4700 ns
+run 100ns
+# KERNEL: stopped at time: 4800 ns
+run 100ns
+# KERNEL: stopped at time: 4900 ns
+run 100ns
+# KERNEL: stopped at time: 5 us
+run 100ns
+# KERNEL: stopped at time: 5100 ns
+run 100ns
+# KERNEL: stopped at time: 5200 ns
+run 100ns
+# KERNEL: stopped at time: 5300 ns
+run 100ns
+# KERNEL: stopped at time: 5400 ns
+run 100ns
+# KERNEL: stopped at time: 5500 ns
+run 100ns
+# KERNEL: stopped at time: 5600 ns
+run 100ns
+# KERNEL: stopped at time: 5700 ns
+run 100ns
+# KERNEL: stopped at time: 5800 ns
+run 100ns
+# KERNEL: stopped at time: 5900 ns
+run 100ns
+# KERNEL: stopped at time: 6 us
+run 100ns
+# KERNEL: stopped at time: 6100 ns
+run 100ns
+# KERNEL: stopped at time: 6200 ns
+run 100ns
+# KERNEL: stopped at time: 6300 ns
+run 100ns
+# KERNEL: stopped at time: 6400 ns
+run 100ns
+# KERNEL: stopped at time: 6500 ns
+run 100ns
+# KERNEL: stopped at time: 6600 ns
+run 100ns
+# KERNEL: stopped at time: 6700 ns
+run 100ns
+# KERNEL: stopped at time: 6800 ns
+run 100ns
+# KERNEL: stopped at time: 6900 ns
+run 100ns
+# KERNEL: stopped at time: 7 us
+run 100ns
+# KERNEL: stopped at time: 7100 ns
+run 100ns
+# KERNEL: stopped at time: 7200 ns
+run 100ns
+# KERNEL: stopped at time: 7300 ns
+run 100ns
+# KERNEL: stopped at time: 7400 ns
+run 100ns
+# KERNEL: stopped at time: 7500 ns
+run 100ns
+# KERNEL: stopped at time: 7600 ns
+run 100ns
+# KERNEL: stopped at time: 7700 ns
+run 100ns
+# KERNEL: stopped at time: 7800 ns
+run 100ns
+# KERNEL: stopped at time: 7900 ns
+run 100ns
+# KERNEL: stopped at time: 8 us
+run 100ns
+# KERNEL: stopped at time: 8100 ns
+run 100ns
+# KERNEL: stopped at time: 8200 ns
+run 100ns
+# KERNEL: stopped at time: 8300 ns
+run 100ns
+# KERNEL: stopped at time: 8400 ns
+run 100ns
+# KERNEL: stopped at time: 8500 ns
+run 100ns
+# KERNEL: stopped at time: 8600 ns
+run 100ns
+# KERNEL: stopped at time: 8700 ns
+run 100ns
+# KERNEL: stopped at time: 8800 ns
+run 100ns
+# KERNEL: stopped at time: 8900 ns
+run 100ns
+# KERNEL: stopped at time: 9 us
+run 100ns
+# KERNEL: stopped at time: 9100 ns
+run 100ns
+# KERNEL: stopped at time: 9200 ns
+run 100ns
+# KERNEL: stopped at time: 9300 ns
+run 100ns
+# KERNEL: stopped at time: 9400 ns
+run 100ns
+# KERNEL: stopped at time: 9500 ns
+run 100ns
+# KERNEL: stopped at time: 9600 ns
+run 100ns
+# KERNEL: stopped at time: 9700 ns
+run 100ns
+# KERNEL: stopped at time: 9800 ns
+run 100ns
+# KERNEL: stopped at time: 9900 ns
+run 100ns
+# KERNEL: stopped at time: 10 us
+run 100ns
+# KERNEL: stopped at time: 10100 ns
+run 100ns
+# KERNEL: stopped at time: 10200 ns
+run 100ns
+# KERNEL: stopped at time: 10300 ns
+run 100ns
+# KERNEL: stopped at time: 10400 ns
+run 100ns
+# KERNEL: stopped at time: 10500 ns
+run 100ns
+# KERNEL: stopped at time: 10600 ns
+run 100ns
+# KERNEL: stopped at time: 10700 ns
+run 100ns
+# KERNEL: stopped at time: 10800 ns
+run 100ns
+# KERNEL: stopped at time: 10900 ns
+run 100ns
+# KERNEL: stopped at time: 11 us
+run 100ns
+# KERNEL: stopped at time: 11100 ns
+run 100ns
+# KERNEL: stopped at time: 11200 ns
+run 100ns
+# KERNEL: stopped at time: 11300 ns
+run 100ns
+# KERNEL: stopped at time: 11400 ns
+run 100ns
+# RUNTIME: Fatal Error: RUNTIME_0043 Ceas.vhd (31): Value 76 out of range (0 to 61).
+# KERNEL: Time: 11450 ns,  Iteration: 0,  Instance: /ora_si_minut,  Process: line__27.
+# KERNEL: stopped at delta: 0 at time 11450 ns.
+# Fatal error occurred during simulation.
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+acom $DSN/src/data_calendaristica.vhd
+# Compile...
+# File: C:\Users\nechi\Desktop\proiect\agenda\src\data_calendaristica.vhd
+# Compile Entity "data_calendaristica"
+# Entity `data_calendaristica' has been skipped - no difference detected.
+# Compile Architecture "Arh_Calendaristic" of Entity "data_calendaristica"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+run 100ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2484 kB (elbread=1071 elab2=360 kernel=1053 sdf=0)
+# 1:54 PM, Thursday, May 26, 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda_de_birou (arh_agenda_programabila)
+run 100ns
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 500 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 600 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 700 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 800 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 900 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1 us
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1500 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2484 kB (elbread=1071 elab2=360 kernel=1053 sdf=0)
+# 1:57 PM, Thursday, May 26, 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda_de_birou (arh_agenda_programabila)
+run 100ns
+# KERNEL: stopped at time: 100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 300 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 400 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 500 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 600 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 700 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 800 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 900 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1 us
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1100 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100ns
+# KERNEL: stopped at time: 1300 ns
+run 100ns
+# KERNEL: stopped at time: 1400 ns
+run 100ns
+# KERNEL: stopped at time: 1500 ns
+run 100ns
+# KERNEL: stopped at time: 1600 ns
+run 100ns
+# KERNEL: stopped at time: 1700 ns
+run 100ns
+# KERNEL: stopped at time: 1800 ns
+run 100ns
+# KERNEL: stopped at time: 1900 ns
+run 100ns
+# KERNEL: stopped at time: 2 us
+run 100ns
+# KERNEL: stopped at time: 2100 ns
+run 100ns
+# KERNEL: stopped at time: 2200 ns
+run 100ns
+# KERNEL: stopped at time: 2300 ns
+run 100ns
+# KERNEL: stopped at time: 2400 ns
+run 100ns
+# KERNEL: stopped at time: 2500 ns
+run 100ns
+# KERNEL: stopped at time: 2600 ns
+run 100ns
+# KERNEL: stopped at time: 2700 ns
+run 100ns
+# KERNEL: stopped at time: 2800 ns
+run 100ns
+# KERNEL: stopped at time: 2900 ns
+run 100ns
+# KERNEL: stopped at time: 3 us
+run 100ns
+# KERNEL: stopped at time: 3100 ns
+run 100ns
+# KERNEL: stopped at time: 3200 ns
+run 100ns
+# KERNEL: stopped at time: 3300 ns
+run 100ns
+# KERNEL: stopped at time: 3400 ns
+run 100ns
+# KERNEL: stopped at time: 3500 ns
+run 100ns
+# KERNEL: stopped at time: 3600 ns
+run 100ns
+# KERNEL: stopped at time: 3700 ns
+run 100ns
+# KERNEL: stopped at time: 3800 ns
+run 100ns
+# KERNEL: stopped at time: 3900 ns
+run 100ns
+# KERNEL: stopped at time: 4 us
+run 100ns
+# KERNEL: stopped at time: 4100 ns
+run 100ns
+# KERNEL: stopped at time: 4200 ns
+run 100ns
+# KERNEL: stopped at time: 4300 ns
+run 100ns
+# KERNEL: stopped at time: 4400 ns
+run 100ns
+# KERNEL: stopped at time: 4500 ns
+run 100ns
+# KERNEL: stopped at time: 4600 ns
+run 100ns
+# KERNEL: stopped at time: 4700 ns
+run 100ns
+# KERNEL: stopped at time: 4800 ns
+run 100ns
+# KERNEL: stopped at time: 4900 ns
+run 100ns
+# KERNEL: stopped at time: 5 us
+run 100ns
+# KERNEL: stopped at time: 5100 ns
+run 100ns
+# KERNEL: stopped at time: 5200 ns
+run 100ns
+# KERNEL: stopped at time: 5300 ns
+run 100ns
+# KERNEL: stopped at time: 5400 ns
+run 100ns
+# KERNEL: stopped at time: 5500 ns
+run 100ns
+# KERNEL: stopped at time: 5600 ns
+run 100ns
+# KERNEL: stopped at time: 5700 ns
+run 100ns
+# KERNEL: stopped at time: 5800 ns
+run 100ns
+# KERNEL: stopped at time: 5900 ns
+run 100ns
+# KERNEL: stopped at time: 6 us
+run 100ns
+# KERNEL: stopped at time: 6100 ns
+run 100ns
+# KERNEL: stopped at time: 6200 ns
+run 100ns
+# KERNEL: stopped at time: 6300 ns
+run 100ns
+# KERNEL: stopped at time: 6400 ns
+run 100ns
+# KERNEL: stopped at time: 6500 ns
+run 100ns
+# KERNEL: stopped at time: 6600 ns
+run 100ns
+# KERNEL: stopped at time: 6700 ns
+run 100ns
+# KERNEL: stopped at time: 6800 ns
+run 100ns
+# KERNEL: stopped at time: 6900 ns
+run 100ns
+# KERNEL: stopped at time: 7 us
+run 100ns
+# KERNEL: stopped at time: 7100 ns
+run 100ns
+# KERNEL: stopped at time: 7200 ns
+run 100ns
+# KERNEL: stopped at time: 7300 ns
+run 100ns
+# KERNEL: stopped at time: 7400 ns
+run 100ns
+# KERNEL: stopped at time: 7500 ns
+run 100ns
+# KERNEL: stopped at time: 7600 ns
+run 100ns
+# KERNEL: stopped at time: 7700 ns
+run 100ns
+# KERNEL: stopped at time: 7800 ns
+run 100ns
+# KERNEL: stopped at time: 7900 ns
+run 100ns
+# KERNEL: stopped at time: 8 us
+run 100ns
+# KERNEL: stopped at time: 8100 ns
+run 100ns
+# KERNEL: stopped at time: 8200 ns
+run 100ns
+# KERNEL: stopped at time: 8300 ns
+run 100ns
+# KERNEL: stopped at time: 8400 ns
+run 100ns
+# KERNEL: stopped at time: 8500 ns
+run 100ns
+# KERNEL: stopped at time: 8600 ns
+run 100ns
+# KERNEL: stopped at time: 8700 ns
+run 100ns
+# KERNEL: stopped at time: 8800 ns
+run 100ns
+# KERNEL: stopped at time: 8900 ns
+run 100ns
+# KERNEL: stopped at time: 9 us
+run 100ns
+# KERNEL: stopped at time: 9100 ns
+run 100ns
+# KERNEL: stopped at time: 9200 ns
+run 100ns
+# KERNEL: stopped at time: 9300 ns
+run 100ns
+# KERNEL: stopped at time: 9400 ns
+run 100ns
+# KERNEL: stopped at time: 9500 ns
+run 100ns
+# KERNEL: stopped at time: 9600 ns
+run 100ns
+# KERNEL: stopped at time: 9700 ns
+run 100ns
+# KERNEL: stopped at time: 9800 ns
+run 100ns
+# KERNEL: stopped at time: 9900 ns
+run 100ns
+# KERNEL: stopped at time: 10 us
+run 100ns
+# KERNEL: stopped at time: 10100 ns
+run 100ns
+# KERNEL: stopped at time: 10200 ns
+run 100ns
+# KERNEL: stopped at time: 10300 ns
+run 100ns
+# KERNEL: stopped at time: 10400 ns
+run 100ns
+# KERNEL: stopped at time: 10500 ns
+run 100ns
+# KERNEL: stopped at time: 10600 ns
+run 100ns
+# KERNEL: stopped at time: 10700 ns
+run 100ns
+# KERNEL: stopped at time: 10800 ns
+run 100ns
+# KERNEL: stopped at time: 10900 ns
+run 100ns
+# KERNEL: stopped at time: 11 us
+run 100ns
+# KERNEL: stopped at time: 11100 ns
+run 100ns
+# KERNEL: stopped at time: 11200 ns
+run 100ns
+# KERNEL: stopped at time: 11300 ns
+run 100ns
+# KERNEL: stopped at time: 11400 ns
+run 100ns
+# KERNEL: stopped at time: 11500 ns
+run 100ns
+# KERNEL: stopped at time: 11600 ns
+run 100ns
+# KERNEL: stopped at time: 11700 ns
+run 100ns
+# KERNEL: stopped at time: 11800 ns
+run 100ns
+# KERNEL: stopped at time: 11900 ns
+run 100ns
+# KERNEL: stopped at time: 12 us
+run 100ns
+# KERNEL: stopped at time: 12100 ns
+run 100ns
+# KERNEL: stopped at time: 12200 ns
+run 100ns
+# KERNEL: stopped at time: 12300 ns
+run 100ns
+# KERNEL: stopped at time: 12400 ns
+run 100ns
+# KERNEL: stopped at time: 12500 ns
+run 100ns
+# KERNEL: stopped at time: 12600 ns
+run 100ns
+# KERNEL: stopped at time: 12700 ns
+run 100ns
+# KERNEL: stopped at time: 12800 ns
+run 100ns
+# KERNEL: stopped at time: 12900 ns
+run 100ns
+# KERNEL: stopped at time: 13 us
+run 100ns
+# KERNEL: stopped at time: 13100 ns
+run 100ns
+# KERNEL: stopped at time: 13200 ns
+run 100ns
+# KERNEL: stopped at time: 13300 ns
+restart
+# All when statements cleared.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2484 kB (elbread=1071 elab2=360 kernel=1053 sdf=0)
+# 2:00 PM, Thursday, May 26, 2022
+# Simulation has been initialized
+# Selected Top-Level: agenda_de_birou (arh_agenda_programabila)
+run 100ns
+# KERNEL: stopped at time: 100 ns
+run 100ns
+# KERNEL: stopped at time: 200 ns
+run 100ns
+# KERNEL: stopped at time: 300 ns
+run 100ns
+# KERNEL: stopped at time: 400 ns
+run 100ns
+# KERNEL: stopped at time: 500 ns
+run 100ns
+# KERNEL: stopped at time: 600 ns
+run 100ns
+# KERNEL: stopped at time: 700 ns
+# Simulation has been stopped

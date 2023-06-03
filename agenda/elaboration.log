@@ -1,0 +1,24 @@
+elbread.dll ver. 1.0.5.365 Thu May 26 14:00:30 2022
+
+
+--------------------------------------------------------------------
+Entity                     | Architecture                  | Library
+--------------------------------------------------------------------
+agenda_de_birou            | arh_agenda_programabila       | agenda
+ceas                       | arch_ceas                     | agenda
+este_bisect                | arh_este_bisect               | agenda
+numar_zile_din_luna        | arh_numar_zile_din_luna       | agenda
+calendar                   | arh_calendar                  | agenda
+timer_alarma               | arh_timer_alarma              | agenda
+ziua_din_saptamana_litere  | arh_ziua_din_saptamana_litere | agenda
+afisare_cifra              | arh_afisare_cifra             | agenda
+afisare_litera             | arh_afisare_litera            | agenda
+--------------------------------------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+numeric_std     | ieee
+-------------------------

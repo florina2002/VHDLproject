@@ -1,0 +1,1 @@
+-w -s "C:\Users\nechi\Desktop\proiect\library.cfg"  -j "C:\Users\nechi\Desktop\proiect\agenda\projlib.cfg"  -d "C:\Users\nechi\Desktop\proiect\agenda\compile\"  -work agenda -dbg -e 100 "C:\Users\nechi\Desktop\proiect\agenda\src\data_calendaristica.vhd" 

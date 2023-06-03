@@ -1,0 +1,60 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=agenda
+
+[Library]
+agenda=.\agenda.lib
+
+[$LibMap$]
+agenda=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=agenda_de_birou|arh_agenda_programabila|0 data_calendaristica|arh_calendar|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Ceas.vhd=-1
+/Afisare_Cifra.vhd=-1
+/Afisare_Litera.vhd=-1
+/Calendar.vhd=-1
+/este_bisect.vhd=-1
+/zile_din_saptamana.vhd=-1
+/Timer_alarma.vhd=-1
+/numar_zile_din_luna.vhd=-1
+/data_calendaristica.vhd=-1
+/agenda_de_birou.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\Ceas.vhd=VHDL Source Code
+.\src\Afisare_Cifra.vhd=VHDL Source Code
+.\src\Afisare_Litera.vhd=VHDL Source Code
+.\src\Calendar.vhd=VHDL Source Code
+.\src\este_bisect.vhd=VHDL Source Code
+.\src\zile_din_saptamana.vhd=VHDL Source Code
+.\src\Timer_alarma.vhd=VHDL Source Code
+.\src\numar_zile_din_luna.vhd=VHDL Source Code
+.\src\data_calendaristica.vhd=VHDL Source Code
+.\src\agenda_de_birou.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+
